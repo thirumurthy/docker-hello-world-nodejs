@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.2",
   "description": "Node.js Hello World app on Debian using docker",
-  "author": "Tomas Barton <tomas.barton@fit.cvut.cz>",
+  "author": "Thirumurthy <91thiru@gmail.com>",
   "dependencies": {
     "express": "4.16.1"
   },
